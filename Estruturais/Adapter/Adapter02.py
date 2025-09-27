@@ -1,6 +1,3 @@
-from urllib import request
-
-
 class AplicacaoCliente:
     def request(self):
         pass
